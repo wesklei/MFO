@@ -1,4 +1,4 @@
-MFO 2014/2
+MFO 2014/2 - Conflito
 ===
 
 Controle de versão
